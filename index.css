@@ -1,3 +1,12 @@
+.item {
+    display: flex;
+    justify-content: center;
+    border-radius: 20px;
+}
 .btn-hola {
-    background-color: blue;
+    display: flexbox;
+    justify-items: center;
+    
+    
+   
 }
